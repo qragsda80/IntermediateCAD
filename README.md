@@ -15,6 +15,8 @@
 
 ### Description
 
+For this assignment I used the the sketch, extrude, hole, and fillet tool to make the deck. I used the split tool and move face tool to angle to head and tail of the deck. This is the first of four steps in making this skateboard in Onshape. 
+
 ### Evidence
 
 [Deck in Onshape](https://cvilleschools.onshape.com/documents/355afc777aa6abbd9c60a087/w/24ed3c5488771de1c00888d3/e/85ab9cb02bf9a5627bde7562)
@@ -30,6 +32,8 @@
 ## DesigningTheTrucks
 
 ### Description
+
+
 
 ### Evidence
 
