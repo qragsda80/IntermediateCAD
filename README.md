@@ -15,7 +15,7 @@
 
 ### Description
 
-For this assignment I used the the sketch, extrude, hole, and fillet tool to make the deck. I used the split tool and move face tool to angle to head and tail of the deck. This is the first of four steps in making this skateboard in Onshape. 
+For this assignment I used the the sketch, extrude, hole, and fillet tool to make the deck. I used the split tool and move face tool to angle to head and tail of the deck.
 
 ### Evidence
 
@@ -27,13 +27,15 @@ For this assignment I used the the sketch, extrude, hole, and fillet tool to mak
 
 ### Reflection
 
+This is the first of four steps in making this skateboard in Onshape. It was tough to figure out how to make the holes countersunk to mae room for the screws, but I read the instructions again and figured it out after watching the GIFs. This assignment was pretty simple, but fun.
+
 
 
 ## DesigningTheTrucks
 
 ### Description
 
-
+For this assignment, I used the sketch, extrude, and fillet tool make the trucks. The trucks connect the wheels with the board, so it is an important piece in the building of the skateboard.
 
 ### Evidence
 
@@ -45,11 +47,15 @@ For this assignment I used the the sketch, extrude, hole, and fillet tool to mak
 
 ### Reflection
 
+This is the second of four steps in making this skateboard in Onshape. I had trouble using the "Use tool" to add pieces onto the part. The Bushing was not fitting on the trucks at one point, so I got Callan to help me. This assignment was a lot more complicated than the last one, which can someties make it more fun. I enjoyed doing this assignment.
+
 
 
 ## WheelsandBearings
 
 ### Description`
+
+For this assignment, I used the sketch, extrude, fillet, and revolve tool to make the wheels and bearings. The wheels make the skateboard able to move smoothly on the ground.
 
 ### Evidence
 
@@ -61,11 +67,15 @@ For this assignment I used the the sketch, extrude, hole, and fillet tool to mak
 
 ### Reflection
 
+This is the third of four steps in making this skateboard in Onshape. I couldn't figure out how to use the revolve tool, so I asked Mr. Helmstetter and he showed me that I had to make a sketch and a line to revolve the sketch around. This assignment did not take very long and I will use this part 4 times in my assembly.
+
 
 
 ## PuttingItAllTogether-Skateboard-
 
 ### Description
+
+For this assignment, I used the fasten mate, revolute mate, and Replicate tool to assembl all of the pieces and parts together to make the skateboard.
 
 ### Evidence
 
@@ -76,6 +86,8 @@ For this assignment I used the the sketch, extrude, hole, and fillet tool to mak
 ![SkateboardAssembly](https://user-images.githubusercontent.com/71349670/139081081-661e1937-620b-4652-9503-a6f70f1ea1c1.jpg)
 
 ### Reflection
+
+This is the fourth of four steps in making the skateboard in Onshape. I did not have a lot of challenges in this assignment because I am used to assemblies by now, but I did sturggle finding and using the right bolt and nuts for the assembly. Making the skateboard was a lot of fun and I can't wait to start the next project in Onshape.
 
 
 
@@ -92,6 +104,8 @@ For this assignment I used the the sketch, extrude, hole, and fillet tool to mak
 ![Brick](https://user-images.githubusercontent.com/71349670/139081137-37aad17b-1ba1-4cde-b26f-a3c38a355cb3.jpg)
 
 ### Reflection
+
+
 
 
 
