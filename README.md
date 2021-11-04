@@ -97,7 +97,7 @@ This is the fourth of four steps in making the skateboard in Onshape. I did not 
 
 ### Evidence
 
-[tinkercad.com](https://www.tinkercad.com/learn/circuits)
+[Bricks in Onshape](https://cvilleschools.onshape.com/documents/ee1a02a6dee65cde9dc8d7c6/w/3e28a5e00565684111a6958c/e/b846cdcacb39e9c916eff2c7)
 
 ### Image
 
@@ -115,7 +115,7 @@ This is the fourth of four steps in making the skateboard in Onshape. I did not 
 
 ### Evidence
 
-[tinkercad.com](https://www.tinkercad.com/learn/circuits)
+[Duck in Onshape](https://cvilleschools.onshape.com/documents/ee1a02a6dee65cde9dc8d7c6/w/3e28a5e00565684111a6958c/e/9d2f0819f9770584a06afd09)
 
 ### Image
 
