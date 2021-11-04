@@ -105,7 +105,7 @@ This is the fourth of four steps in making the skateboard in Onshape. I did not 
 
 ### Reflection
 
-
+This is the first assignment of two using and making these lego bricks in Onshape. I struggled with the configurations and learning how they work. I remember doing a little bit of configurations last year, but not a lot. This assignment was fun and challenging, but I eventually figured it out with the help of Mr. Dierolf.
 
 
 
@@ -122,3 +122,5 @@ This is the fourth of four steps in making the skateboard in Onshape. I did not 
 ![BetterDuck](https://user-images.githubusercontent.com/71349670/139081188-8026ff3b-8dc0-4fd7-b712-868f6d48e60d.jpg)
 
 ### Reflection
+
+This is the second assignment of two using and making these lego bricks in Onshape. This was a really fun and easy assignment because I remember playing with legos when I was a kid. I enjoyed putting the legos together and building the duck. It was challenging trying to snap some of the pieces together. They would sometimes go through eachother, but I figured it out by trying it a again and just playing around with it.
